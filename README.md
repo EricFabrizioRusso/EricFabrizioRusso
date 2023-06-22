@@ -7,6 +7,8 @@ My name is Eric Russo, and I am a **Web Developer** and creative designer. I hav
 
 Currently, I am expanding my skills further to become a **full-stack developer in JavaScript**. I am learning technologies like MongoDB, Node.js, and the Express framework.
 
+Besides that, I am studying a degree in Audiovisual Arts where I can creatively demonstrate my knowledge through teamwork with my colleagues students
+
 ---
 
 **Languages**: Spanish (native), English (intermediate), French(basic). Location: Buenos Aires, Argentina.
